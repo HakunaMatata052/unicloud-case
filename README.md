@@ -47,7 +47,7 @@ Vmware 虚拟机
 
 数据库:mysql8.0
 
-![1](F:\demo\app\weimumu-app\image\1.gif)
+
 
 ## 第二章 项目介绍
 
@@ -89,11 +89,11 @@ Vmware 虚拟机
 
 **收藏夹**
 
-![image-20191118152305024](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20191118152305024.png)
+![image-20191118152305024](https://github.com/calvin008/weimumu-app/blob/master/image/shou.jpg)
 
 ### 2.3小程序开发工具调试
 
-![image-20191118165941501](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20191118165941501.png)
+![image-20191118165941501](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\shezhi.jpg)
 
 ### 2.4springboot+mybatis plus简介
 
