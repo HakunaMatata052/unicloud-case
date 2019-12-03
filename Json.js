@@ -1,0 +1,55 @@
+const videoList = [
+	{
+		state:1,
+		username:'coco',
+		userface:'https://s1.st.meishij.net/user/124/42/ns3885624_150731085215618.jpg',
+		desc:'这件衣服适合通勤',
+		image:'https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2668268226,1765897385&fm=26&gp=0.jpg'
+	},
+	{
+		state:1,
+		username:'calvin',
+		userface:'https://s1.st.meishij.net/user/242/206/ns364242_30188.jpg',
+		desc:'国外偶遇MM',
+		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1552405266625&di=a703f2b2cdb0fe7f3f05f62dd91307ab&imgtype=0&src=http%3A%2F%2Fwww.78.cn%2Fzixun%2Fnews%2Fupload%2F20190214%2F1550114706486250.jpg'
+	},
+	{
+		state:1,
+		username:'瑞秋',
+		userface:'',
+		desc:'',
+		image:''
+	},
+	{
+		state:1,
+		username:'JACK',
+		userface:'https://s1.st.meishij.net/user/17/110/ns2090017_38362.jpg',
+		desc:'电商产品预计下周上架为双11奋斗',
+		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553187020783&di=bac9dd78b36fd984502d404d231011c0&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201609%2F26%2F20160926173213_s5adi.jpeg'
+	},
+	{
+		state:2,
+		username:'NICK',
+		userface:'https://s1.st.meishij.net/user/63/127/ns14031813_156725006628521.jpg',
+		desc:'跟法国朋友学习的甜点',
+		image:'https://s1.st.meishij.net/rs/51/205/2301301/n2301301_154098467632734.jpg'
+	},
+	{
+		state:2,
+		username:'Bonie',
+		userface:'https://s1.st.meishij.net/user/25/41/ns2322775_75033.jpg',
+		desc:'今天做了闷猪手款待客人',
+		image:'http://site.meishij.net/r/184/229/5557434/s5557434_148833766064252.jpg'
+	},
+	{
+		state:3,
+		username:'BLUES',
+		userface:'https://s1.st.meishij.net/user/224/117/ns2341974_40313.jpg',
+		desc:'这个色号专业',
+		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1552410549432&di=06dd3758053fb6d6362516f30a42d055&imgtype=0&src=http%3A%2F%2Fimgcache.mysodao.com%2Fimg3%2FM0A%2F67%2F42%2FCgAPD1vNSsHNm-TnAAEy61txQb4543_400x400x2.JPG'
+	}
+]
+
+export default {
+	videoList
+}

@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.title {
+  color: #fa436a;
+  margin-bottom: 3rpx;
+  font-weight: bold;
+  font-size: 30rpx;
+}
+.audio-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-left: 5%;
+}
+.audio-container .audio-item {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+}
+.audio-container .audio-item .audio {
+      width: 85%;
+}
+.audio-container .audio-item .radio {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      Align-items: center;
+}
+.input-container {
+  margin-left: 5%;
+}
+.button-container {
+  margin-top: 30rpx;
+}
+.button-container .action-btn {
+    width: 160rpx;
+    height: 60rpx;
+    margin: 0;
+    margin-left: 24rpx;
+    padding: 0;
+    border-color: #fa436a;
+    text-align: center;
+    line-height: 60rpx;
+    font-size: 26rpx;
+    color: #303133;
+    background: #fff;
+    border-radius: 100px;
+}
+.button-container .action-btn:after {
+      border-radius: 100px;
+}
+.button-container .action-btn.recom {
+      background: #fff9f9;
+      color: #fa436a;
+}
+.button-container .action-btn.recom:after {
+        border-color: #f7bcc8;
+}
+

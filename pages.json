@@ -1,0 +1,66 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/upload/upload",
+			"style": {
+				"navigationBarTitleText": "上传视频"
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/videoInfo/videoInfo",
+			"style": {
+				"navigationBarTitleText": "视频信息"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "weimumu-app",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#f8f8f8"
+	},
+	"tabBar":{
+		"color": "#C0C4CC",
+		"selectedColor": "#fa436a",
+		"borderStyle": "white",
+		"backgroundColor": "#ffffff",
+		"list":[
+			{
+				"pagePath":"pages/index/index",
+				"iconPath":"static/tab-shouye.png",
+				"selectedIconPath":"static/tab-shouye-current.png",
+				"text":"首页"
+			},
+			{
+				"pagePath":"pages/upload/upload",
+				"iconPath":"static/tab-camera.png",
+				"selectedIconPath":"static/tab-camera-current.png",
+				"text":"上传"
+			},
+			{
+				"pagePath":"pages/mine/mine",
+				"iconPath":"static/tab-wode.png",
+				"selectedIconPath":"static/tab-wode-current.png",
+				"text":"我的"
+			}
+		]
+	}
+}
