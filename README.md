@@ -3,7 +3,7 @@
 
 nav左右滑动切换页面,scorll-view下拉;
 
-![image](https://github.com/calvin008/media-uni-app/tree/master/image/1.gif)
+![image](https://github.com/calvin008/media-uni-app/blob/master/image/1.gif)
 
 ## 目录
 [TOC]
@@ -89,11 +89,11 @@ Vmware 虚拟机
 
 **收藏夹**
 
-![img](https://github.com/calvin008/media-uni-app/tree/master/image/shou.jpg)
+![img](https://github.com/calvin008/media-uni-app/blob/master/image/shou.jpg)
 
 ### 2.3小程序开发工具调试
 
-![img](https://github.com/calvin008/media-uni-app/tree/master/image\shezhi.jpg)
+![img](https://github.com/calvin008/media-uni-app/blob/master/image/shezhi.jpg)
 
 ### 2.4springboot+mybatis plus简介
 
