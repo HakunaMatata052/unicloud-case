@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><button type="primary" size="default" open-type="getUserInfo" data-event-opts="{{[['getuserinfo',[['loginByWeixin',['$event']]]]]}}" bindgetuserinfo="__e">微信一键登录</button></view></view>
